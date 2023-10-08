@@ -42,14 +42,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85100918</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">A three-essay supplement to Nietzsche’s previous work <i>Beyond Good and Evil</i>, analyzing the origins and meaning of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.</dc:description>
+		<dc:description id="description">Three essays analyzing the origins, meaning, and value of the concepts of good, evil, and bad; of guilt, punishment, and bad conscience; and of ascetic ideals, including those of truth and truthfulness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/52319</dc:source>
 		<dc:source>https://archive.org/details/cu31924021569201</dc:source>
-		<meta property="se:production-notes">Italics in the translation do not match the German; there are both false positives and false negatives. This edition follows the 1913 scans of the Samuel translation.</meta>
+		<meta property="se:production-notes">Italics in the translation do not match the German; there are both false positives and false negatives in Horace B. Samuel's translation. This edition follows the 1913 scans of the Samuel translation.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Genealogy_of_Morals</meta>
