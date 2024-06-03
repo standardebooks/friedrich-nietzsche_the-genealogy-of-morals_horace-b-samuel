@@ -81,8 +81,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n87901106</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
-		<dc:contributor id="artist">Hieronymous Bosch</dc:contributor>
-		<meta property="file-as" refines="#artist">Bosch, Hieronymous</meta>
+		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
+		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79004071</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
