@@ -86,7 +86,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79004071</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber">Marc D’Hooghe at http://www.freeliterature.org</dc:contributor>
+		<dc:contributor id="transcriber">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Erin Endrei</dc:contributor>
