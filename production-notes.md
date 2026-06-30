@@ -1,0 +1,1 @@
+Italics in the translation do not match the German; there are both false positives and false negatives in Horace B. Samuel's translation. This edition follows the 1913 scans of the Samuel translation.
